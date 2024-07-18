@@ -83,7 +83,7 @@ Buzzer:
 
 
 
-Power Connections:
+Power connections:
 
 
 •	GND pins of the Arduino to the ground rail.
