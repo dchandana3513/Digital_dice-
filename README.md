@@ -99,7 +99,7 @@ Connect the Battery:
 
 •	Connect the positive wire of the battery clip to the VIN pin on the Arduino Uno.
 
-•	Connect the negative wire of the battery clip to one of the GND pins on the Arduino Uno.
+•	Connect the negative wire of the battery clip to one of the GND pins on the ArduinoUno
 
  
 
